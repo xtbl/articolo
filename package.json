@@ -1,0 +1,14 @@
+{
+  "name": "articolo",
+  "version": "0.0.1",
+  "author": "Cristobal Avila",
+  "description": "xxxxxx",
+  "devDependencies": {
+    "mocha": "~2.2.5",
+    "should": "~7.0.2",
+    "gulp": "*",
+    "gulp-babel": "*",
+    "gulp-sourcemaps": "*",
+    "source-map-support": "*"
+  }
+}
